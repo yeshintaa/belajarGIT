@@ -8,4 +8,10 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GIT
-...
+1. git branch
+2. git checkout
+3. touch
+4. git add
+5. git commit -m
+6. git merge
+7. git push origin main
